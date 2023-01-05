@@ -1,0 +1,13 @@
+C:\Users\Christian\Desktop\Fall Term 2020\CS234N - Advanced C#\Lab02\ado-lab-ccollis93\MMABooksADO\MMABooksDBClasses\bin\Debug\netcoreapp3.1\MMABooksDBClasses.deps.json
+C:\Users\Christian\Desktop\Fall Term 2020\CS234N - Advanced C#\Lab02\ado-lab-ccollis93\MMABooksADO\MMABooksDBClasses\bin\Debug\netcoreapp3.1\MMABooksDBClasses.dll
+C:\Users\Christian\Desktop\Fall Term 2020\CS234N - Advanced C#\Lab02\ado-lab-ccollis93\MMABooksADO\MMABooksDBClasses\bin\Debug\netcoreapp3.1\MMABooksDBClasses.pdb
+C:\Users\Christian\Desktop\Fall Term 2020\CS234N - Advanced C#\Lab02\ado-lab-ccollis93\MMABooksADO\MMABooksDBClasses\bin\Debug\netcoreapp3.1\MMABooksBusinessClasses.dll
+C:\Users\Christian\Desktop\Fall Term 2020\CS234N - Advanced C#\Lab02\ado-lab-ccollis93\MMABooksADO\MMABooksDBClasses\bin\Debug\netcoreapp3.1\MMABooksBusinessClasses.pdb
+C:\Users\Christian\Desktop\Fall Term 2020\CS234N - Advanced C#\Lab02\ado-lab-ccollis93\MMABooksADO\MMABooksDBClasses\obj\Debug\netcoreapp3.1\MMABooksDBClasses.csprojAssemblyReference.cache
+C:\Users\Christian\Desktop\Fall Term 2020\CS234N - Advanced C#\Lab02\ado-lab-ccollis93\MMABooksADO\MMABooksDBClasses\obj\Debug\netcoreapp3.1\MMABooksDBClasses.AssemblyInfoInputs.cache
+C:\Users\Christian\Desktop\Fall Term 2020\CS234N - Advanced C#\Lab02\ado-lab-ccollis93\MMABooksADO\MMABooksDBClasses\obj\Debug\netcoreapp3.1\MMABooksDBClasses.AssemblyInfo.cs
+C:\Users\Christian\Desktop\Fall Term 2020\CS234N - Advanced C#\Lab02\ado-lab-ccollis93\MMABooksADO\MMABooksDBClasses\obj\Debug\netcoreapp3.1\MMABooksDBClasses.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Desktop\Fall Term 2020\CS234N - Advanced C#\Lab02\ado-lab-ccollis93\MMABooksADO\MMABooksDBClasses\obj\Debug\netcoreapp3.1\MMABooksDBClasses.csproj.CopyComplete
+C:\Users\Christian\Desktop\Fall Term 2020\CS234N - Advanced C#\Lab02\ado-lab-ccollis93\MMABooksADO\MMABooksDBClasses\obj\Debug\netcoreapp3.1\MMABooksDBClasses.dll
+C:\Users\Christian\Desktop\Fall Term 2020\CS234N - Advanced C#\Lab02\ado-lab-ccollis93\MMABooksADO\MMABooksDBClasses\obj\Debug\netcoreapp3.1\MMABooksDBClasses.pdb
+C:\Users\Christian\Desktop\Fall Term 2020\CS234N - Advanced C#\Lab02\ado-lab-ccollis93\MMABooksADO\MMABooksDBClasses\bin\Debug\netcoreapp3.1\mySqlSettings.json

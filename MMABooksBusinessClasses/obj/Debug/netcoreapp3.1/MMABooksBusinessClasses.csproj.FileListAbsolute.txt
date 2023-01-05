@@ -1,0 +1,9 @@
+C:\Users\Christian\Desktop\Fall Term 2020\CS234N - Advanced C#\Lab02\ado-lab-ccollis93\MMABooksADO\MMABooksBusinessClasses\bin\Debug\netcoreapp3.1\MMABooksBusinessClasses.deps.json
+C:\Users\Christian\Desktop\Fall Term 2020\CS234N - Advanced C#\Lab02\ado-lab-ccollis93\MMABooksADO\MMABooksBusinessClasses\bin\Debug\netcoreapp3.1\MMABooksBusinessClasses.dll
+C:\Users\Christian\Desktop\Fall Term 2020\CS234N - Advanced C#\Lab02\ado-lab-ccollis93\MMABooksADO\MMABooksBusinessClasses\bin\Debug\netcoreapp3.1\MMABooksBusinessClasses.pdb
+C:\Users\Christian\Desktop\Fall Term 2020\CS234N - Advanced C#\Lab02\ado-lab-ccollis93\MMABooksADO\MMABooksBusinessClasses\obj\Debug\netcoreapp3.1\MMABooksBusinessClasses.csprojAssemblyReference.cache
+C:\Users\Christian\Desktop\Fall Term 2020\CS234N - Advanced C#\Lab02\ado-lab-ccollis93\MMABooksADO\MMABooksBusinessClasses\obj\Debug\netcoreapp3.1\MMABooksBusinessClasses.AssemblyInfoInputs.cache
+C:\Users\Christian\Desktop\Fall Term 2020\CS234N - Advanced C#\Lab02\ado-lab-ccollis93\MMABooksADO\MMABooksBusinessClasses\obj\Debug\netcoreapp3.1\MMABooksBusinessClasses.AssemblyInfo.cs
+C:\Users\Christian\Desktop\Fall Term 2020\CS234N - Advanced C#\Lab02\ado-lab-ccollis93\MMABooksADO\MMABooksBusinessClasses\obj\Debug\netcoreapp3.1\MMABooksBusinessClasses.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Desktop\Fall Term 2020\CS234N - Advanced C#\Lab02\ado-lab-ccollis93\MMABooksADO\MMABooksBusinessClasses\obj\Debug\netcoreapp3.1\MMABooksBusinessClasses.dll
+C:\Users\Christian\Desktop\Fall Term 2020\CS234N - Advanced C#\Lab02\ado-lab-ccollis93\MMABooksADO\MMABooksBusinessClasses\obj\Debug\netcoreapp3.1\MMABooksBusinessClasses.pdb
